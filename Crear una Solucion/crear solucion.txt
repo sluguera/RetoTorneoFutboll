@@ -1,0 +1,4 @@
+dotnet new sln -o TorneoFutboll.App
+dotnet new classlib -o TorneoFutboll.App.Persistencia
+dotnet new classlib -o TorneoFutboll.App.Dominio
+dotnet new webapi -o TorneoFutboll.App.Servicios
