@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Torneo.App.Dominio;
 
-namespace Torneo.App.Persistencia.AppRepositorios
+namespace Torneo.App.Persistencia
 {
     public class DataContext : DbContext
     {
@@ -19,14 +19,13 @@ namespace Torneo.App.Persistencia.AppRepositorios
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=tcp:sluguer.database.windows.net,1433;Initial Catalog=Torneo;Persist Security Info=False;User ID=OnlineDevelopers;Password=Scheveningen@2022;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+                optionsBuilder.UseSqlServer("Server=tcp:sluguer.database.windows.net,1433;Initial Catalog=Torneo;Persist Security Info=False;User ID=OnlineDevelopers;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             }
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            foreach (var relationship in
-            modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys()))
+            foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys()))
             {
                 relationship.DeleteBehavior = DeleteBehavior.Restrict;
             }
