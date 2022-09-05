@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Torneo\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {}
+    "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {}
   },
   "projects": {
-    "F:\\Torneo\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
+    "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Torneo\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
         "projectName": "Torneo.App.Dominio",
-        "projectPath": "F:\\Torneo\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+        "projectPath": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\slugu\\.nuget\\packages\\",
-        "outputPath": "F:\\Torneo\\Torneo.App\\Torneo.App.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slugu\\AppData\\Roaming\\NuGet\\NuGet.Config"
