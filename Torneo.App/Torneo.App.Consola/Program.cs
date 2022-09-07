@@ -31,7 +31,7 @@ namespace Torneo.App.Consola
 
                 if (selecionar == 1)
                 {
-                    Console.WriteLine("1. Agregar Partio");
+                    Console.WriteLine("1. Agregar Partido");
                     Console.WriteLine("2. Mostrar Partido");
                     selecionar = int.Parse(Console.ReadLine());
 
