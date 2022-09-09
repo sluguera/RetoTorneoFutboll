@@ -1888,19 +1888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
-      "projectName": "Torneo.App.Persistencia",
-      "projectPath": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\slugu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Persistencia\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
       "projectName": "Torneo.App.Persistencia",
       "projectPath": "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\ECF6980B\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\obj\\",
->>>>>>> dd95c2d23c6e255c239de14cb10d1a049f1ba5b2
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1921,13 +1913,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-<<<<<<< HEAD
-            "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj"
-=======
             "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
               "projectPath": "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj"
->>>>>>> dd95c2d23c6e255c239de14cb10d1a049f1ba5b2
             }
           }
         }

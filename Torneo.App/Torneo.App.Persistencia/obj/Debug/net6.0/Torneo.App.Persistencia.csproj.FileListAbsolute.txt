@@ -23,8 +23,6 @@ C:\Users\slugu\Desktop\Torneo-master\Torneo.App\Torneo.App.Persistencia\obj\Debu
 C:\Users\slugu\Desktop\Torneo-master\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.dll
 C:\Users\slugu\Desktop\Torneo-master\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\refint\Torneo.App.Persistencia.dll
 C:\Users\slugu\Desktop\Torneo-master\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.pdb
-<<<<<<< HEAD
-=======
 C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.deps.json
 C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.runtimeconfig.json
 C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.dll
@@ -42,4 +40,3 @@ C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persisten
 C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.pdb
 C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.genruntimeconfig.cache
 C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\ref\Torneo.App.Persistencia.dll
->>>>>>> dd95c2d23c6e255c239de14cb10d1a049f1ba5b2
