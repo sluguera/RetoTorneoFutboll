@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {}
   },
   "projects": {
@@ -12,14 +13,33 @@
         "projectPath": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\slugu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Dominio\\obj\\",
+=======
+    "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+        "projectName": "Torneo.App.Dominio",
+        "projectPath": "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\ECF6980B\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\obj\\",
+>>>>>>> dd95c2d23c6e255c239de14cb10d1a049f1ba5b2
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\slugu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ECF6980B\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,6 +77,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -65,22 +86,43 @@
         "projectPath": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\slugu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Persistencia\\obj\\",
+=======
+    "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
+        "projectName": "Torneo.App.Persistencia",
+        "projectPath": "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\ECF6980B\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\obj\\",
+>>>>>>> dd95c2d23c6e255c239de14cb10d1a049f1ba5b2
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\slugu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ECF6980B\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
                 "projectPath": "C:\\Users\\slugu\\Desktop\\Torneo-master\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj"
+=======
+              "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\ECF6980B\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj"
+>>>>>>> dd95c2d23c6e255c239de14cb10d1a049f1ba5b2
               }
             }
           }

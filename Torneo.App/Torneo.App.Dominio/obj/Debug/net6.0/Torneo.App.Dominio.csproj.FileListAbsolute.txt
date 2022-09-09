@@ -22,3 +22,18 @@ C:\Users\slugu\Desktop\Torneo-master\Torneo.App\Torneo.App.Dominio\obj\Debug\net
 C:\Users\slugu\Desktop\Torneo-master\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\refint\Torneo.App.Dominio.dll
 C:\Users\slugu\Desktop\Torneo-master\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.pdb
 C:\Users\slugu\Desktop\Torneo-master\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\ref\Torneo.App.Dominio.dll
+<<<<<<< HEAD
+=======
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\bin\Debug\net6.0\Torneo.App.Dominio.deps.json
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\bin\Debug\net6.0\Torneo.App.Dominio.dll
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\bin\Debug\net6.0\Torneo.App.Dominio.pdb
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.AssemblyInfo.cs
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.dll
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\refint\Torneo.App.Dominio.dll
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.pdb
+C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\ref\Torneo.App.Dominio.dll
+>>>>>>> dd95c2d23c6e255c239de14cb10d1a049f1ba5b2
