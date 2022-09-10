@@ -12,7 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\Torneo.App.Persistencia.csproj" />
+    <ProjectReference Include="..\Torneo.App.Dominio\Torneo.App.Dominio.csproj" />
+    <ProjectReference Include="..\Torneo.App.Persistencia\Torneo.App.Persistencia.csproj" />
   </ItemGroup>
 
 </Project>

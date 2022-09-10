@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32802.462
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torneo.App.Dominio", "C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Dominio\Torneo.App.Dominio.csproj", "{F821EEA8-CA71-41EE-8E72-D102EFCF7144}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torneo.App.Persistencia", "C:\Users\ECF6980B\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\Torneo.App.Persistencia.csproj", "{9C5788BA-8FDB-48F4-BEAB-1270F5748C3F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torneo.App.Consola", "Torneo.App.Consola\Torneo.App.Consola.csproj", "{25C8508C-508E-4CBD-A79B-EF3018BE292B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torneo.App.Web", "Torneo.App.Web\Torneo.App.Web.csproj", "{CA0D307E-623F-4AE4-B3AC-4A59E76480CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torneo.App.Web", "Torneo.App.Web\Torneo.App.Web.csproj", "{CA0D307E-623F-4AE4-B3AC-4A59E76480CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torneo.App.Dominio", "Torneo.App.Dominio\Torneo.App.Dominio.csproj", "{41B50890-AAF9-4488-BD61-56103776BF1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torneo.App.Persistencia", "Torneo.App.Persistencia\Torneo.App.Persistencia.csproj", "{C22EC704-5965-4AE2-8296-FF5DA77DBE26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,14 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F821EEA8-CA71-41EE-8E72-D102EFCF7144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F821EEA8-CA71-41EE-8E72-D102EFCF7144}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F821EEA8-CA71-41EE-8E72-D102EFCF7144}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F821EEA8-CA71-41EE-8E72-D102EFCF7144}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9C5788BA-8FDB-48F4-BEAB-1270F5748C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9C5788BA-8FDB-48F4-BEAB-1270F5748C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9C5788BA-8FDB-48F4-BEAB-1270F5748C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9C5788BA-8FDB-48F4-BEAB-1270F5748C3F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{25C8508C-508E-4CBD-A79B-EF3018BE292B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{25C8508C-508E-4CBD-A79B-EF3018BE292B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25C8508C-508E-4CBD-A79B-EF3018BE292B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +25,14 @@ Global
 		{CA0D307E-623F-4AE4-B3AC-4A59E76480CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA0D307E-623F-4AE4-B3AC-4A59E76480CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA0D307E-623F-4AE4-B3AC-4A59E76480CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B50890-AAF9-4488-BD61-56103776BF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B50890-AAF9-4488-BD61-56103776BF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B50890-AAF9-4488-BD61-56103776BF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B50890-AAF9-4488-BD61-56103776BF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C22EC704-5965-4AE2-8296-FF5DA77DBE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22EC704-5965-4AE2-8296-FF5DA77DBE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22EC704-5965-4AE2-8296-FF5DA77DBE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22EC704-5965-4AE2-8296-FF5DA77DBE26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
