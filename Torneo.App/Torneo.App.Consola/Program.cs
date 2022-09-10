@@ -204,9 +204,6 @@ namespace Torneo.App.Consola
             Console.WriteLine("Introduzca el marcador del equipo local");
             marcadorVisitante = int.Parse(Console.ReadLine());
 
-
-
-
             var partido = new Partido
             {
                 FechaHora = DateTime.Now,
@@ -215,10 +212,6 @@ namespace Torneo.App.Consola
 
             };
             _repoPartido.AddPartido(partido, equipoLocal, equipoVisitante);
-
-            /////
-
-
         }
 
         private static void GetAllJugadores()
@@ -258,7 +251,6 @@ namespace Torneo.App.Consola
 
         private static void GetAllPosiciones()
         {
-
             foreach (var posicion in _repoPosicion.GetAllPosiciones())
             {
                 Console.WriteLine(posicion.Id + " " + posicion.Nombre);

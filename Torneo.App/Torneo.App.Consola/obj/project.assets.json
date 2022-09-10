@@ -1811,11 +1811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fuentes\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
+      "projectUniqueName": "D:\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
       "projectName": "Torneo.App.Consola",
-      "projectPath": "D:\\Fuentes\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
+      "projectPath": "D:\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
       "packagesPath": "C:\\Users\\ECF6980B\\.nuget\\packages\\",
-      "outputPath": "D:\\Fuentes\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Consola\\obj\\",
+      "outputPath": "D:\\Torneo.App\\Torneo.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
