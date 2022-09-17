@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {}
+    "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
+    "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
         "projectName": "Torneo.App.Dominio",
-        "projectPath": "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+        "projectPath": "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\DELL LATITUDE 5420\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",

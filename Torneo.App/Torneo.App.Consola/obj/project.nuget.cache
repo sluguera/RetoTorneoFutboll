@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xg+hChkCNZk4bp/mwGAn892lBYnz9vE/Ejxde0oOgXyAZudqALDNMGn0VhJdgyqrsWL9K3jrngEh4wKojV3yVw==",
+  "dgSpecHash": "OAR7QUi5PdskGR8Bo8oeDIlcMpGxPnt125rX6V/R0DuxhyEpxtRDMiArUT+TqZtEMwF9qx5/me1UqIn/knn4lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
+  "projectFilePath": "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL LATITUDE 5420\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\DELL LATITUDE 5420\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
