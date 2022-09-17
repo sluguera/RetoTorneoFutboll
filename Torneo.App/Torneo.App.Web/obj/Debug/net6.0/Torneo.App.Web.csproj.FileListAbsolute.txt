@@ -24,3 +24,29 @@ D:\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\refint\Torneo.App.Web.dll
 D:\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.pdb
 D:\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.genruntimeconfig.cache
 D:\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\ref\Torneo.App.Web.dll
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\bin\Debug\net6.0\Torneo.App.Web.staticwebassets.runtime.json
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\bin\Debug\net6.0\Torneo.App.Web.exe
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\bin\Debug\net6.0\Torneo.App.Web.deps.json
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\bin\Debug\net6.0\Torneo.App.Web.runtimeconfig.json
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\bin\Debug\net6.0\Torneo.App.Web.dll
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\bin\Debug\net6.0\Torneo.App.Web.pdb
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.csproj.AssemblyReference.cache
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.AssemblyInfoInputs.cache
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.AssemblyInfo.cs
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.RazorAssemblyInfo.cache
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.RazorAssemblyInfo.cs
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\scopedcss\bundle\Torneo.App.Web.styles.css
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\scopedcss\projectbundle\Torneo.App.Web.bundle.scp.css
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.dll
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\refint\Torneo.App.Web.dll
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.pdb
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.genruntimeconfig.cache
+C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\ref\Torneo.App.Web.dll

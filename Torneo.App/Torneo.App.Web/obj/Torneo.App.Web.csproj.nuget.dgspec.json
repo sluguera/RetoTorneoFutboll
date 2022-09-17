@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS\\Torneo.App\\Torneo.App.Web\\Torneo.App.Web.csproj": {}
+    "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Web\\Torneo.App.Web.csproj": {}
   },
   "projects": {
-    "D:\\VS\\Torneo.App\\Torneo.App.Web\\Torneo.App.Web.csproj": {
+    "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Web\\Torneo.App.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS\\Torneo.App\\Torneo.App.Web\\Torneo.App.Web.csproj",
+        "projectUniqueName": "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Web\\Torneo.App.Web.csproj",
         "projectName": "Torneo.App.Web",
-        "projectPath": "D:\\VS\\Torneo.App\\Torneo.App.Web\\Torneo.App.Web.csproj",
-        "packagesPath": "C:\\Users\\teren\\.nuget\\packages\\",
-        "outputPath": "D:\\VS\\Torneo.App\\Torneo.App.Web\\obj\\",
+        "projectPath": "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Web\\Torneo.App.Web.csproj",
+        "packagesPath": "C:\\Users\\DELL LATITUDE 5420\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\teren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL LATITUDE 5420\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
