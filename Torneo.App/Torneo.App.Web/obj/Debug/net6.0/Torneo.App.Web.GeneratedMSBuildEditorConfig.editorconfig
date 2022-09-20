@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Torneo.App.Web
 build_property.RootNamespace = Torneo.App.Web
-build_property.ProjectDir = C:\Users\DELL LATITUDE 5420\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\
+build_property.ProjectDir = F:\FutbollTorneo\Torneo.App\Torneo.App.Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DELL LATITUDE 5420\source\repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Web
+build_property.MSBuildProjectDirectory = F:\FutbollTorneo\Torneo.App\Torneo.App.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/DirectorTecnico.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/DirectorTecnico.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlyZWN0b3JUZWNuaWNvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Equipo.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/Equipo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXF1aXBvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Error.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Index.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Jugador.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/Jugador.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnVnYWRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipio.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/Municipio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Partido.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/Partido.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlkby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Posicion.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/Posicion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/_ViewImports.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/_ViewStart.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL LATITUDE 5420/source/repos/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Shared/_Layout.cshtml]
+[F:/FutbollTorneo/Torneo.App/Torneo.App.Web/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-p3qxfdfgtj

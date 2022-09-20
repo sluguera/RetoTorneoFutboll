@@ -1946,19 +1946,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL LATITUDE 5420\\.nuget\\packages\\": {}
+    "C:\\Users\\slugu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
+      "projectUniqueName": "F:\\FutbollTorneo\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
       "projectName": "Torneo.App.Consola",
-      "projectPath": "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\DELL LATITUDE 5420\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Consola\\obj\\",
+      "projectPath": "F:\\FutbollTorneo\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\slugu\\.nuget\\packages\\",
+      "outputPath": "F:\\FutbollTorneo\\Torneo.App\\Torneo.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL LATITUDE 5420\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\slugu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1972,11 +1972,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj"
+            "F:\\FutbollTorneo\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
+              "projectPath": "F:\\FutbollTorneo\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj"
             },
-            "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj"
+            "F:\\FutbollTorneo\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {
+              "projectPath": "F:\\FutbollTorneo\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj"
             }
           }
         }
@@ -2006,7 +2006,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
