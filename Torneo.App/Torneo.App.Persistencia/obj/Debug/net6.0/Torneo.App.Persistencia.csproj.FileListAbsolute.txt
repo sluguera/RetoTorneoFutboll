@@ -57,3 +57,20 @@ C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App
 C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.pdb
 C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.genruntimeconfig.cache
 C:\Users\DELL LATITUDE 5420\Source\Repos\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\ref\Torneo.App.Persistencia.dll
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.deps.json
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.runtimeconfig.json
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.dll
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.pdb
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Dominio.dll
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Dominio.pdb
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.csproj.AssemblyReference.cache
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.AssemblyInfoInputs.cache
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.AssemblyInfo.cs
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.csproj.CopyComplete
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.dll
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\refint\Torneo.App.Persistencia.dll
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.pdb
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.genruntimeconfig.cache
+C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\ref\Torneo.App.Persistencia.dll

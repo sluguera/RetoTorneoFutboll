@@ -2,25 +2,73 @@
 @model Torneo.App.Web.Pages.MunicipioModel
 @{
     ViewData["Title"] = "Municipio";
-<h1>@ViewData["Title"]</h1>
+    <h1>@ViewData["Title"]</h1>
+    ViewData["Title"] = "Listado de Posiciones";
+    <h2>@ViewData["Title"]</h2>
 }
 <!DOCTYPE html>
 <html>
-<table>
-    <tr>
-        <th>Company</th>
-        <th>Contact</th>
-        <th>Country</th>
+<table style="width: 100% tex-align: center;" class="table">
+    <tr bgcolor="blue">
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Acciones</th>
     </tr>
     <tr>
-        <td>Alfreds Futterkiste</td>
-        <td>Maria Anders</td>
-        <td>Germany</td>
+        <td>1</td>
+        <td>Once Caldas</td>
+        <td>
+            <button class=" btn-primary">Consultar</button>
+            <button class=" btn-primary">Actulizar</button>
+            <button class=" btn-primary">Eliminar</button>
+    </tr>
+    <tr>        
+        <td>2</td>
+        <td>Bucaramanga</td >
+        <td>
+            <button class=" btn-primary">Consultar</button>
+            <button class=" btn-primary">Actulizar</button>
+            <button class=" btn-primary">Eliminar</button>
+        </td>
+    </tr>
+
+    <tr>
+       
+        <td>3</td>
+        <td>Medellin</td>
+        <td>
+            <button class="btn-primary">Consultar</button>
+            <button class="btn-primary">Actulizar</button>
+            <button class=" btn-primary">Eliminar</button>            
+        </td>
+       </tr>
+    <tr>
+        
+        <td>4</td>
+        <td>Santafe</td>
+        <td>
+            <button class=" btn-primary">Consultar</button>
+            <button class=" btn-primary">Actulizar</button>
+            <button class=" btn-primary">Eliminar</button>
     </tr>
     <tr>
-        <td>Centro comercial Moctezuma</td>
-        <td>Francisco Chang</td>
-        <td>Mexico</td>
+       
+        <td>5</td>
+        <td>Union Magdalena</td>
+        <td>
+            <button class=" btn-primary">Consultar</button>
+            <button class=" btn-primary">Actulizar</button>
+            <button class=" btn-primary">Eliminar</button>
+    </tr>
+    <tr>
+       
+        <td>6</td>
+        <td>Cali</td>
+        <td>
+            <button class=" btn-primary">Consultar</button>
+            <button class=" btn-primary">Actulizar</button>
+            <button class=" btn-primary">Eliminar</button>
+
     </tr>
 </table>
 </html>

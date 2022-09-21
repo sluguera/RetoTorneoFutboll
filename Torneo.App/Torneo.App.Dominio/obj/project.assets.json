@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+      "projectUniqueName": "C:\\TORNEO\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
       "projectName": "Torneo.App.Dominio",
-      "projectPath": "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+      "projectPath": "C:\\TORNEO\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\DELL LATITUDE 5420\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL LATITUDE 5420\\Source\\Repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\obj\\",
+      "outputPath": "C:\\TORNEO\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL LATITUDE 5420\\AppData\\Roaming\\NuGet\\NuGet.Config",

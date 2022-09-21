@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zEpB3wYeFm4640NChuM75hAaMJAhQhq94Y6BsG/VE0u21rVTH0nbAPkZL7h6LAfGvCLu/77IP806j5IZWfWs3Q==",
+  "dgSpecHash": "xs7QjljETPa1qAhZC3l8wn1RtnBbiEwnKjnbmInZFu82mVuq9X8l6170edHAdJrAdkb3f5c/ALL7T5TkGA5RLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL LATITUDE 5420\\source\\repos\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
+  "projectFilePath": "C:\\TORNEO\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL LATITUDE 5420\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DELL LATITUDE 5420\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
