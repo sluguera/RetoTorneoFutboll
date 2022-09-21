@@ -25,8 +25,8 @@ namespace Torneo.App.Persistencia.AppRepositorios
         public IEnumerable<Municipio> GetAllMunicipios()
         {
             var municipios = _dataContext.Municipios
-                .Include(m => m.Equipos)
-                .ToList();
+               .Include(m => m.Equipos)
+               .ToList();
             return municipios;
         }
         #endregion

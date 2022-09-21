@@ -11,6 +11,9 @@ namespace Torneo.App.Persistencia.AppRepositorios
     {
         public Municipio AddMunicipio(Municipio municipio);
         public IEnumerable<Municipio> GetAllMunicipios();
+        public Municipio GetMunicipio(int idMunicipio);
+        public Municipio UpdateMunicipio(Municipio municipio);
+        public Municipio DeleteMunicipio(int idMunicipio);
     }
 
     //public readonly IEnumerable<Municipio>? allMunicipios;
