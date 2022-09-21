@@ -39,6 +39,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/TORNEO/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TORNEO/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TORNEO/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/TORNEO/RetoTorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

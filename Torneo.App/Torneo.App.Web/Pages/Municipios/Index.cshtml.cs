@@ -2,8 +2,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Torneo.App.Dominio;
 using Torneo.App.Persistencia.AppRepositorios;
-//using Torneo.App.Dominio.Equipo;
-//using Torneo.App.Dominio.Municipio;
 
 namespace Torneo.App.Web.Pages.Municipios
 {
@@ -17,11 +15,23 @@ namespace Torneo.App.Web.Pages.Municipios
         {
             _repoMunicipio = repoMunicipio;
         }
+
         public void OnGet()
         {
             municipios = _repoMunicipio.GetAllMunicipios();
             ErrorEliminar = false;
+            /*
+                        foreach (var municipio in municipios)
+                        {
+                            Console.WriteLine(municipio.Nombre);
+                            foreach (var equipo in municipio.Equipos)
+                            {
+                                Console.WriteLine("\t" + equipo.Nombre);
+                            }
+                        }
+            */
         }
+
         public IActionResult OnPostDelete(int id)
         {
             try
@@ -37,5 +47,7 @@ namespace Torneo.App.Web.Pages.Municipios
                 return Page();
             }
         }
+
     }
+
 }

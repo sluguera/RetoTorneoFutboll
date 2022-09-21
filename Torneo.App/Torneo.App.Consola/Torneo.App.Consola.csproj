@@ -11,9 +11,4 @@
     <None Include="..\.editorconfig" Link=".editorconfig" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Torneo.App.Dominio\Torneo.App.Dominio.csproj" />
-    <ProjectReference Include="..\Torneo.App.Persistencia\Torneo.App.Persistencia.csproj" />
-  </ItemGroup>
-
 </Project>
