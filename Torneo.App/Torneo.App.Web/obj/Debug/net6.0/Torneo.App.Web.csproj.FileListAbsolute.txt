@@ -108,8 +108,11 @@ C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\scopedcss
 C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\scopedcss\bundle\Torneo.App.Web.styles.css
 C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\scopedcss\projectbundle\Torneo.App.Web.bundle.scp.css
 C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.csproj.CopyComplete
+<<<<<<< HEAD
 C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.dll
 C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\refint\Torneo.App.Web.dll
 C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.pdb
 C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\Torneo.App.Web.genruntimeconfig.cache
 C:\TORNEO\RetoTorneoFutboll\Torneo.App\Torneo.App.Web\obj\Debug\net6.0\ref\Torneo.App.Web.dll
+=======
+>>>>>>> 858490a2aeb6676535b60e579a47a5b9507a8693
