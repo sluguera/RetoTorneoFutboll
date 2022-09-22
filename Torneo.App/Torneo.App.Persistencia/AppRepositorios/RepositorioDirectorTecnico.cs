@@ -10,15 +10,36 @@ namespace Torneo.App.Persistencia.AppRepositorios
     public  class RepositorioDirectorTecnico : IRepositorioDirectorTecnico
     {
         private readonly DataContext _dataContext = new DataContext();
-        public DirectorTecnico AddDirectorTecnico(DirectorTecnico directorTecnico)
+
+        public DirectorTecnico AddDT(DirectorTecnico directorTecnico)
         {
-            var directorTecnicoInsertado = _dataContext.DirectoresTecnicos.Add(directorTecnico);
+            var dtInsertado = _dataContext.DirectoresTecnicos.Add(directorTecnico);
             _dataContext.SaveChanges();
-            return directorTecnicoInsertado.Entity;
+            return dtInsertado.Entity;
         }
-        public IEnumerable<DirectorTecnico> GetAllDirectoresTecnicos()
+
+        public IEnumerable<DirectorTecnico> GetAllDTs()
         {
             return _dataContext.DirectoresTecnicos;
+        }
+
+        public DirectorTecnico GetDT(int idDT)
+        {
+            var dtEncontrado = _dataContext.DirectoresTecnicos.Find(idDT);
+            return dtEncontrado;
+        }
+
+        public DirectorTecnico UpdateDT(DirectorTecnico dt)
+        {
+            var dtEncontrado = _dataContext.DirectoresTecnicos.Find(dt.Id);
+            if (dtEncontrado != null)
+            {
+                dtEncontrado.Nombre = dt.Nombre;
+                dtEncontrado.Documento = dt.Documento;
+                dtEncontrado.Telefono = dt.Telefono;
+                _dataContext.SaveChanges();
+            }
+            return dtEncontrado;
         }
 
     }

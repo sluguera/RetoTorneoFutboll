@@ -1,14 +1,15 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Torneo.App.Dominio;
+using Torneo.App.Persistencia;
 using Torneo.App.Persistencia.AppRepositorios;
 
-namespace Torneo.App.Web.Pages.Municipios
+namespace Torneo.App.Frontend.Pages.Municipios
 {
     public class CreateModel : PageModel
     {
         private readonly IRepositorioMunicipio _repoMunicipio;
-        public Municipio municipio { get; set; }
+        public Municipio municipio {get; set;}
 
         public CreateModel(IRepositorioMunicipio repoMunicipio)
         {

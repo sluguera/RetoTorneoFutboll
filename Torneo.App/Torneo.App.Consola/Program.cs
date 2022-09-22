@@ -162,7 +162,7 @@ namespace Torneo.App.Consola
         private static void GetAllDirectorTecnico()
         {
 
-            foreach (var directorTecnico in _repoDirectorTecnico.GetAllDirectoresTecnicos())
+            foreach (var directorTecnico in _repoDirectorTecnico.GetAllDTs())
             {
                 Console.WriteLine(directorTecnico.Id + "\t" + directorTecnico.Nombre + "\t" + directorTecnico.Documento + "\t" + directorTecnico.Telefono);
                 
@@ -388,7 +388,7 @@ namespace Torneo.App.Consola
                 Documento = documento,
                 Telefono = telefono,
             };
-            _repoDirectorTecnico.AddDirectorTecnico(directorTecnico);
+            _repoDirectorTecnico.AddDT(directorTecnico);
         }
 
         private static void AddMunicipio()
