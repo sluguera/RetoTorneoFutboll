@@ -82,3 +82,15 @@ F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Domin
 F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\refint\Torneo.App.Dominio.dll
 F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.pdb
 F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\ref\Torneo.App.Dominio.dll
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\bin\Debug\net6.0\Torneo.App.Dominio.deps.json
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\bin\Debug\net6.0\Torneo.App.Dominio.dll
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\bin\Debug\net6.0\Torneo.App.Dominio.pdb
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.AssemblyInfo.cs
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.dll
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\refint\Torneo.App.Dominio.dll
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.pdb
+C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\ref\Torneo.App.Dominio.dll

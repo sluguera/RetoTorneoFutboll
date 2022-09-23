@@ -2,47 +2,64 @@
 @model Torneo.App.Frontend.Pages.Posiciones.IndexModel
 @{
 }
+<center>
 @if (Model.ErrorEliminar)
 {
     <div class="alert alert-danger" role="alert">
         No se pudo eliminar la posicion
     </div>
 }
-<a class="btn btn-primary" asp-page="./Create">Crear posicion</a>
 <h1>Listado de posicion</h1>
 
-<table class="table table-dark table-striped">
+<table  class="table table-bordered border-#922B21 " , border="2" , style="width: 50%">
     <thead>
-        <tr>
+        <tr bgcolor="#808080">
             <th scope="col">Id</th>
             <th scope="col">Nombre</th>
-            @*<th scope="col">Acciones</th>*@
+           
+                @*<td style="text-align:right">@row.Price</td> *@
+            <th style="text-align:center" scope="col">Acciones</th>
+                
+                <th> 
+                   <center>
+                   <a class="btn btn-outline-warning" asp-page="./Create">Crear</a>
+                   </center>
+                </th>
+                 
+            
+            
+           
         </tr>
     </thead>
     <tbody>
         @foreach (var posicion in Model.posiciones)
         {
-            <tr>
+            <tr bgcolor="#F8F9F9">
                 <th scope="row">@posicion.Id</th>
                 <td>@posicion.Nombre</td>
                 <td>
-                    <a class="btn btn-outline-light" asp-page="./Details" asp-route-id="@posicion.Id">
+                    <center>
+                        <a class="btn btn-outline-success" asp-page="./Details" asp-route-id="@posicion.Id">
                         Detalle
                     </a>
-                    <a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@posicion.Id">
+                    </center>
+                     
+
+                    <th>
+                        <center>
+                            <a class="btn btn-outline-primary" asp-page="./Edit" asp-route-id="@posicion.Id">
                         Editar
                     </a>
-                   @* @if(posicion.Nombre.Count ==0)
-                    {
-                        <form method="post" class="d-inline">
-                            <button asp-page-handler="Delete" asp-route-id="@posicion.Id"
-                            onclick="return confirm('Esta Seguro de eliminar la posicion?')" class="btn btn-danger">
-                                Delete
-                            </button>
-                        </form>
-                    }*@
+                        </center>
+                         
+                    </th>
+                   
+                   
+                    
+            
                 </td>
             </tr>
         }
     </tbody>
 </table>
+</center>
