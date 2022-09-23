@@ -1,0 +1,17 @@
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Release\net6.0\Torneo.App.Persistencia.deps.json
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Release\net6.0\Torneo.App.Persistencia.runtimeconfig.json
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Release\net6.0\Torneo.App.Persistencia.dll
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Release\net6.0\Torneo.App.Persistencia.pdb
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Release\net6.0\Torneo.App.Dominio.dll
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\bin\Release\net6.0\Torneo.App.Dominio.pdb
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Release\net6.0\Torneo.App.Persistencia.csproj.AssemblyReference.cache
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Release\net6.0\Torneo.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Release\net6.0\Torneo.App.Persistencia.AssemblyInfoInputs.cache
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Release\net6.0\Torneo.App.Persistencia.AssemblyInfo.cs
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Release\net6.0\Torneo.App.Persistencia.csproj.CoreCompileInputs.cache
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Release\net6.0\Torneo.App.Persistencia.csproj.CopyComplete
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Release\net6.0\Torneo.App.Persistencia.dll
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Release\net6.0\refint\Torneo.App.Persistencia.dll
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Release\net6.0\Torneo.App.Persistencia.pdb
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Release\net6.0\Torneo.App.Persistencia.genruntimeconfig.cache
+F:\TorneoFutboll\Torneo.App\Torneo.App.Persistencia\obj\Release\net6.0\ref\Torneo.App.Persistencia.dll

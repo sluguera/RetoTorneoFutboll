@@ -1,0 +1,12 @@
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\bin\Release\net6.0\Torneo.App.Dominio.deps.json
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\bin\Release\net6.0\Torneo.App.Dominio.dll
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\bin\Release\net6.0\Torneo.App.Dominio.pdb
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Release\net6.0\Torneo.App.Dominio.csproj.AssemblyReference.cache
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Release\net6.0\Torneo.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Release\net6.0\Torneo.App.Dominio.AssemblyInfoInputs.cache
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Release\net6.0\Torneo.App.Dominio.AssemblyInfo.cs
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Release\net6.0\Torneo.App.Dominio.csproj.CoreCompileInputs.cache
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Release\net6.0\Torneo.App.Dominio.dll
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Release\net6.0\refint\Torneo.App.Dominio.dll
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Release\net6.0\Torneo.App.Dominio.pdb
+F:\TorneoFutboll\Torneo.App\Torneo.App.Dominio\obj\Release\net6.0\ref\Torneo.App.Dominio.dll
