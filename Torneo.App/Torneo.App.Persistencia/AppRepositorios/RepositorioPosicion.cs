@@ -21,25 +21,6 @@ namespace Torneo.App.Persistencia.AppRepositorios
             var posicionEncontrado = _dataContext.Posiciones.Find(idPosicion);
             return posicionEncontrado;
         }
-        public Posicion UpdatePosicion(Posicion posicion)
-        {
-            var posicionEncontrado = _dataContext.Posiciones.Find(posicion.Id);
-            if (posicionEncontrado != null)
-            {
-                posicionEncontrado.Nombre = posicion.Nombre;
-                _dataContext.SaveChanges();
-            }
-            return posicionEncontrado;
-        }
-        public Posicion DeletePosicion(int idPosicion)
-        {
-            var posicionEncontrado = _dataContext.Posiciones.Find(idPosicion);
-            if (posicionEncontrado != null)
-            {
-                _dataContext.Posiciones.Remove(posicionEncontrado);
-                _dataContext.SaveChanges();
-            }
-            return posicionEncontrado;
-        }
+
     }
 }

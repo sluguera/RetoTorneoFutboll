@@ -14,6 +14,5 @@ namespace Torneo.App.Persistencia.AppRepositorios
         public Municipio GetMunicipio(int idMunicipio);
         public Municipio UpdateMunicipio(Municipio municipio);
         public Municipio DeleteMunicipio(int idMunicipio);
-        Posicion GetPosicion(int id);
     }
 }

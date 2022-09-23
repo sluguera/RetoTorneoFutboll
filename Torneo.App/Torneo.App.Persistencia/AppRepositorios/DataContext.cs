@@ -19,7 +19,7 @@ namespace Torneo.App.Persistencia
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=tcp:sluguerr.database.windows.net,1433;Initial Catalog=Torneo;Persist Security Info=False;User ID=OnlineDevelopers;Password=Scheveningen@2022;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+                optionsBuilder.UseSqlServer("Server=tcp:sluguer.database.windows.net,1433;Initial Catalog=Torneo;Persist Security Info=False;User ID=OnlineDevelopers;Password=Scheveningen@2022;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             }
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
