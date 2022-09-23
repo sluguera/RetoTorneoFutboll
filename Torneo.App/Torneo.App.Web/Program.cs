@@ -8,6 +8,10 @@ builder.Services.AddRazorPages();
 builder.Services.AddSingleton<IRepositorioMunicipio, RepositorioMunicipio>();
 builder.Services.AddSingleton<IRepositorioDirectorTecnico, RepositorioDirectorTecnico>();
 builder.Services.AddSingleton<IRepositorioEquipo, RepositorioEquipo>();
+builder.Services.AddSingleton<IRepositorioPosicion, RepositorioPosicion>();
+builder.Services.AddSingleton<IRepositorioPartido, RepositorioPartido>();
+//builder.Services.AddSingleton<IRepositorioJugador, RepositorioJugador>();
+
 
 var app = builder.Build();
 
