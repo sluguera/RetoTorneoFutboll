@@ -53,10 +53,5 @@ namespace Torneo.App.Persistencia.AppRepositorios
             }
             return municipioEncontrado;
         }
-
-        public Posicion GetPosicion(int id)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

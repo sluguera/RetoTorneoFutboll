@@ -3,8 +3,11 @@
     "",
     "\\Torneo.App.Web",
     "\\Torneo.App.Web\\Pages",
+    "\\Torneo.App.Web\\Pages\\DTs",
     "\\Torneo.App.Web\\Pages\\Equipos",
-    "\\Torneo.App.Web\\Pages\\Municipios"
+    "\\Torneo.App.Web\\Pages\\Municipios",
+    "\\Torneo.App.Web\\Pages\\Partido",
+    "\\Torneo.App.Web\\Pages\\Posicion"
   ],
   "SelectedNode": "\\Torneo.App.Web",
   "PreviewInSolutionExplorer": false
