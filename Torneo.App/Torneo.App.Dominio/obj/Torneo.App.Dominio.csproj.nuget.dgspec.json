@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\TorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {}
+    "C:\\reto3\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {}
   },
   "projects": {
-    "F:\\TorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
+    "C:\\reto3\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+        "projectUniqueName": "C:\\reto3\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
         "projectName": "Torneo.App.Dominio",
-        "projectPath": "F:\\TorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\slugu\\.nuget\\packages\\",
-        "outputPath": "F:\\TorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\obj\\",
+        "projectPath": "C:\\reto3\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\teren\\.nuget\\packages\\",
+        "outputPath": "C:\\reto3\\Torneo.App\\Torneo.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\slugu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\teren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
