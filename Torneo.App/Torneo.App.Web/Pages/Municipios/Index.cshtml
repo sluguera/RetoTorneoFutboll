@@ -8,20 +8,21 @@
         No se pudo eliminar el Municipio
     </div>
 }
-<center>
-    <h1>Listado de municipios</h1>
-<table class="table table-bordered border-IndianRed " , border="2" , style="width: 50%">
+<a class="btn btn-primary" asp-page="./Create">Crear municipio</a>
+<h1>Listado de municipios</h1>
+
+<table class="table table-dark table-striped">
     <thead>
-        <tr bgcolor="#808080">
+        <tr>
             <th scope="col">Id</th>
             <th scope="col">Nombre</th>
-            <th scope="col">Acciones     <a class="btn btn-primary" asp-page="./Create">Crear municipio</a></th>
+            <th scope="col">Acciones</th>
         </tr>
     </thead>
     <tbody>
         @foreach (var municipio in Model.municipios)
         {
-            <tr bgcolor="#F8F9F9">
+            <tr>
                 <th scope="row">@municipio.Id</th>
                 <td>@municipio.Nombre</td>
                 <td>
@@ -45,4 +46,3 @@
         }
     </tbody>
 </table>
-</center>

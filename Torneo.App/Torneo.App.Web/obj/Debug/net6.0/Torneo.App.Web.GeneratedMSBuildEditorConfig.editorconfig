@@ -15,10 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\TorneoFutboll\Torneo.App\Torneo.App.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/DTs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRFRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -33,10 +29,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/DTs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRFRzXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Equipo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXF1aXBvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Equipos/Create.cshtml]
@@ -63,14 +55,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Jugador.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnVnYWRvci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipio.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -87,12 +71,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Partido.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlkby5jc2h0bWw=
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Posiciones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Posicion.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb24uY3NodG1s
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Posiciones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Posiciones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Posiciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
