@@ -3,14 +3,18 @@
 @{
 }
 <center>
-     <h1>Listado de directores técnicos</h1>
+     <h1>Directores técnicos</h1>
 <table class="table table-bordered border-#922B21 " , border="2" , style="width: 50%">
     <thead>
         <tr bgcolor="#808080">
-            <th scope="col">Id</th>
-            <th scope="col">Nombre</th>
-            <th scope="col">Acciones    <a class="btn btn-primary" asp-page="./Create">Crear D.T.</a> </th>
-            
+            <th style="text-align:center" scope="col">Id</th>
+            <th style="text-align:center" scope="col">Nombre</th>
+            <th style="text-align:center" scope="col">Acciones</th>
+            <th> 
+                   <center>
+                   <a class="btn btn-outline-warning" asp-page="./Create">Crear</a>
+                   </center>
+             </th>
            
         </tr>
     </thead>
@@ -21,12 +25,22 @@
                 <th scope="row">@dt.Id</th>
                 <td>@dt.Nombre</td>
                 <td>
-                    <a class="btn btn-#5989B1" asp-page="./Details" asp-route-id="@dt.Id">
+                     <center>
+                       <a class="btn btn-outline-success" asp-page="./Details" asp-route-id="@dt.Id">
                         Detalle
-                    </a>
-                    <a class="btn btn-#F8F9F9" asp-page="./Edit" asp-route-id="@dt.Id">
+                    
+                       </a>
+                    </center>
+                    <th>
+                        <center>
+                            <a class="btn btn-outline-primary" asp-page="./Edit" asp-route-id="@dt.Id">
                         Editar
                     </a>
+                        </center>
+                         
+                    </th>
+                    
+                    
                 </td>
             </tr>
         }

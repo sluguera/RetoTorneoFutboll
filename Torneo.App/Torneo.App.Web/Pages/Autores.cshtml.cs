@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Torneo.App.Web.Pages.DTs
+namespace Torneo.App.Web.Pages
 {
-    public class DetailsModel : PageModel
+    public class AutoresModel : PageModel
     {
         public void OnGet()
         {

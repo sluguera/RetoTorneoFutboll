@@ -24,14 +24,21 @@
 
 
 <center>
-    <h1>Listado de equipos</h1>
+    <h1>Equipos</h1>
 <table class="table table-bordered border-#922B21 " , border="2" , style="width: 50%">
     <thead>
         <tr bgcolor="#808080">
-            <th scope="col">Id</th>
-            <th scope="col">Nombre</th>
-            <th scope="col">D.T</th>
-            <th scope="col">Acciones       <a class="btn btn-primary" asp-page="./Create">Crear equipo</a></th>
+            <th style="text-align:center" scope="col">Id</th>
+            <th style="text-align:center" scope="col">Nombre</th>
+            <th style="text-align:center" scope="col">Dir.Tecnico</th>
+            <th style="text-align:center" scope="col">Acciones</th>
+        
+            <th> 
+                   <center>
+                   <a class="btn btn-outline-warning" asp-page="./Create">Crear</a>
+                   </center>
+             </th>
+             
         </tr>
     </thead>
     <tbody>
@@ -42,13 +49,20 @@
                 <td>@equipo.Nombre</td>
                 <td>@equipo.DirectorTecnico.Nombre</td>
                 <td>
-                    <a class="btn btn-primary" asp-page="./Details" asp-route-id="@equipo.Id">
-                        Detalle
+                    <center>
+                       <a  class="btn btn-outline-success" asp-page="./Details" asp-route-id="@equipo.Id">
+                       Detalle
                     </a>
-                    <a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@equipo.Id">
-                        Editar
+                    </center>
+                    <th>
+                        <center>
+                            <a class="btn btn-outline-primary" asp-page="./Edit" asp-route-id="@equipo.Id">
+                            Editar
                     </a>
-                </td>
+                        </center>
+                         
+                    </th>
+                 </td>
             </tr>
         }
     </tbody>

@@ -9,13 +9,13 @@
         No se pudo eliminar la posicion
     </div>
 }
-<h1>Listado de posicion</h1>
+<h1>Posiciones</h1>
 
 <table  class="table table-bordered border-#922B21 " , border="2" , style="width: 50%">
     <thead>
-        <tr bgcolor="#808080">
-            <th scope="col">Id</th>
-            <th scope="col">Nombre</th>
+        <tr style="text-align:center" bgcolor="#808080">
+            <th style="text-align:center" scope="col">Id</th>
+            <th style="text-align:center" scope="col">Nombre</th>
            
                 @*<td style="text-align:right">@row.Price</td> *@
             <th style="text-align:center" scope="col">Acciones</th>
@@ -26,8 +26,7 @@
                    </center>
                 </th>
                  
-            
-            
+                   
            
         </tr>
     </thead>
@@ -43,8 +42,7 @@
                         Detalle
                     </a>
                     </center>
-                     
-
+                   
                     <th>
                         <center>
                             <a class="btn btn-outline-primary" asp-page="./Edit" asp-route-id="@posicion.Id">

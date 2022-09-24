@@ -16,6 +16,8 @@ a[b-p3qxfdfgtj] {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+  border: 50px;
+  padding: 30px 20px;
 }
 
 .nav-pills .nav-link.active[b-p3qxfdfgtj], .nav-pills .show > .nav-link[b-p3qxfdfgtj] {
