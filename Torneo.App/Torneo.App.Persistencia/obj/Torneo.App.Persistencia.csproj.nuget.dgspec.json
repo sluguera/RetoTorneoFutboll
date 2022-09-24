@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {}
+    "C:\\TorneoTere\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {}
   },
   "projects": {
-    "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
+    "C:\\TorneoTere\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+        "projectUniqueName": "C:\\TorneoTere\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
         "projectName": "Torneo.App.Dominio",
-        "projectPath": "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\slugu\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\obj\\",
+        "projectPath": "C:\\TorneoTere\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\ECF6980B\\.nuget\\packages\\",
+        "outputPath": "C:\\TorneoTere\\Torneo.App\\Torneo.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\slugu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ECF6980B\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,17 +63,21 @@
         }
       }
     },
-    "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {
+    "C:\\TorneoTere\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\TorneoTere\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
         "projectName": "Torneo.App.Persistencia",
-        "projectPath": "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\slugu\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Persistencia\\obj\\",
+        "projectPath": "C:\\TorneoTere\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\ECF6980B\\.nuget\\packages\\",
+        "outputPath": "C:\\TorneoTere\\Torneo.App\\Torneo.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\slugu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ECF6980B\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +91,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
-                "projectPath": "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj"
+              "C:\\TorneoTere\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
+                "projectPath": "C:\\TorneoTere\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5/I84bx36dmDo0zeaL+SXD1mZKvCSg21sWjJUUynQYIpdPr8RQiveYfihQfI2mxMunvjgUwwP8bquEh6YhxHug==",
+  "dgSpecHash": "YkhezZPNXsPTOS/wHhYxCRGqZM7GK8wSO8TLh2gIUaWjsxGrCkL9CryKgGsmKlOupmEkjRXOq+vqkMQPspVINA==",
   "success": true,
-  "projectFilePath": "F:\\GitHub\\RetoTorneoFutboll\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
+  "projectFilePath": "C:\\TorneoTere\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
