@@ -11,10 +11,11 @@ namespace Torneo.App.Persistencia.AppRepositorios
     public class RepositorioJugador : IRepositorioJugador
     {
         private readonly DataContext _dataContext = new DataContext();
-        public Jugador AddJugador(Jugador jugador, int EquipoId, int PosicionId )
+
+        public Jugador AddJugador(Jugador jugador, int idEquipo, int idPosicion)
         {
-            var equipoEncontrado = _dataContext.Equipos.Find(EquipoId);
-            var posicionEncontrado = _dataContext.Posiciones.Find(PosicionId);
+            var equipoEncontrado = _dataContext.Equipos.Find(idEquipo);
+            var posicionEncontrado = _dataContext.Posiciones.Find(idPosicion);
             jugador.Equipo = equipoEncontrado;
             jugador.Posicion = posicionEncontrado;
             var jugadorInsertado = _dataContext.Jugadores.Add(jugador);
@@ -22,40 +23,35 @@ namespace Torneo.App.Persistencia.AppRepositorios
             return jugadorInsertado.Entity;
         }
 
-        public IEnumerable<Jugador> GetAllJugadores()
+        public IEnumerable<Jugador> GetAllJugador()
         {
-            var jugadores  = _dataContext.Jugadores
-            .Include(e => e.Equipo )
+            var jugador = _dataContext.Jugadores
+                .Include(e => e.Equipo)
+                .Include(e => e.Posicion)
+                .ToList();
+            return jugador;
+        }
+        public Jugador GetJugador(int idJugador)
+        {
+            var jugadorEncontrado = _dataContext.Jugadores
+            .Where(e => e.Id == idJugador)
+            .Include(e => e.Equipo)
             .Include(e => e.Posicion)
-            .ToList();
-            return jugadores;
+            .FirstOrDefault();
+            return jugadorEncontrado;
         }
 
-        //public Equipo GetEquipo(int idEquipo)
-        //{
-        //    var equipoEncontrado = _dataContext.Equipos
-        //    .Where(e => e.Id == idEquipo)
-        //    .Include(e => e.Municipio)
-        //    .Include(e => e.DirectorTecnico)
-        //    .FirstOrDefault();
-        //    return equipoEncontrado;
-        //}
-
-        Jugador IRepositorioJugador.GetJugador(int idJugador)
+        public Jugador UpdateJugador(Jugador jugador, int idEquipo, int idPosicion)
         {
-            throw new NotImplementedException();
+            var jugadorEncontrado = GetJugador(jugador.Id);
+            var equipoEncontrado = _dataContext.Equipos.Find(idEquipo);
+            var posicionEncontrado = _dataContext.Posiciones.Find(idPosicion);
+            jugadorEncontrado.Nombre = jugador.Nombre;
+            jugadorEncontrado.Numero = jugador.Numero;
+            jugadorEncontrado.Equipo = equipoEncontrado;
+            jugadorEncontrado.Posicion = posicionEncontrado;
+            _dataContext.SaveChanges();
+            return jugadorEncontrado;
         }
-
-        //public IEnumerable<Jugador> GetAllJugadores()
-        //{
-        //    return _dataContext.Jugadores;
-
-        //}
-
-        //public Jugador GetJugador(int idJugador)
-        //{
-        //    var jugadorEncontrado = _dataContext.Jugadores.Find(idJugador);
-        //    return jugadorEncontrado;
-        //}
     }
 }

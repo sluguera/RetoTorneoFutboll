@@ -14,6 +14,6 @@ namespace Torneo.App.Dominio
         public Equipo? Local { get; set; }
         public int MarcadorLocal { get; set; }
         public Equipo? Visitante { get; set; }
-        public int MarcadorVisitante { get; set; }
+        public int MarcadorVisitante { get; set; }       
     }
 }

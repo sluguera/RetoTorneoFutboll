@@ -11,39 +11,51 @@ namespace Torneo.App.Persistencia.AppRepositorios
     public class RepositorioPartido : IRepositorioPartido
     {
         private readonly DataContext _dataContext = new DataContext();
-        //public Partido AddPartido(Partido partido)
-        //{
-        //    var partidoInsertado = _dataContext.Partidos.Add(partido);
-        //    _dataContext.SaveChanges();
-        //    return partidoInsertado.Entity;
-        //}
 
-        public Partido AddPartido(Partido partido, int LocalId, int VisitanteId)
+        public Partido AddPartido(Partido partido, int idEquipoLocal, int idEquipoVisitante)
         {
-            var equipoLocalIdEncontrado     = _dataContext.Equipos.Find(LocalId);
-            var equipoVisitanteIdEncontrado = _dataContext.Equipos.Find(VisitanteId);
-            partido.Local = equipoLocalIdEncontrado;
-            partido.Visitante = equipoVisitanteIdEncontrado;
-            //partido.MarcadorLocal = MarcadorLocal;
-            //partido.MarcadorVisitante = MarcadorVisitante;
+            var equipolEncontrado = _dataContext.Equipos.Find(idEquipoLocal);
+            var equipovEncontrado = _dataContext.Equipos.Find(idEquipoVisitante);
+            partido.Local = equipolEncontrado;
+            partido.Visitante = equipovEncontrado;
             var partidoInsertado = _dataContext.Partidos.Add(partido);
             _dataContext.SaveChanges();
             return partidoInsertado.Entity;
         }
 
-        public IEnumerable<Partido> GetAllPartidos()
+        public IEnumerable<Partido> GetAllPartido()
         {
-            var Partidos = _dataContext.Partidos
-            .Include(e => e.Local   )
-            .Include(e => e.Visitante)
-            .ToList();
-            return Partidos;
+            var partido = _dataContext.Partidos
+                .Include(e => e.Local)
+                .Include(e => e.Visitante)
+                .ToList();
+            return partido;
         }
-
 
         public Partido GetPartido(int idPartido)
         {
-            throw new NotImplementedException();
+            var partidoEncontrado = _dataContext.Partidos
+            .Where(e => e.Id == idPartido)
+            .Include(e => e.Local)
+            .Include(e => e.Visitante)
+            .FirstOrDefault();
+            return partidoEncontrado;
+        }
+
+        public Partido UpdatePartido(Partido partido, int idEquipoLocal, int idEquipoVisitante)
+        {
+            var partidoEncontrado = GetPartido(partido.Id);
+            var equipoEncontrado = _dataContext.Equipos.Find(idEquipoLocal);
+            var equiEncontrado = _dataContext.Equipos.Find(idEquipoVisitante);
+            Console.WriteLine(partido.FechaHora);
+
+            partidoEncontrado.Local = equipoEncontrado;
+            partidoEncontrado.MarcadorLocal = partido.MarcadorLocal;
+            partidoEncontrado.Visitante = equiEncontrado;
+            partidoEncontrado.FechaHora = partido.FechaHora;
+            partidoEncontrado.MarcadorVisitante = partido.MarcadorVisitante;
+            _dataContext.SaveChanges();
+            return partidoEncontrado;
         }
     }
 }

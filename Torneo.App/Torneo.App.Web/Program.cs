@@ -10,7 +10,7 @@ builder.Services.AddSingleton<IRepositorioDirectorTecnico, RepositorioDirectorTe
 builder.Services.AddSingleton<IRepositorioEquipo, RepositorioEquipo>();
 builder.Services.AddSingleton<IRepositorioPosicion, RepositorioPosicion>();
 builder.Services.AddSingleton<IRepositorioPartido, RepositorioPartido>();
-//builder.Services.AddSingleton<IRepositorioJugador, RepositorioJugador>();
+builder.Services.AddSingleton<IRepositorioJugador, RepositorioJugador>();
 
 
 var app = builder.Build();

@@ -179,7 +179,7 @@ namespace Torneo.App.Consola
 
         private static void MostrarPartido()
         {
-            foreach (var partido in _repoPartido.GetAllPartidos())
+            foreach (var partido in _repoPartido.GetAllPartido())
             {
                 Console.WriteLine(partido.Id + "\t" + partido.FechaHora + "\t\t" + partido.Local.Nombre + "\t\t" + partido.MarcadorLocal + "\t\t" + partido.Visitante.Nombre + "\t\t" + partido.MarcadorVisitante);
             }
@@ -216,7 +216,7 @@ namespace Torneo.App.Consola
 
         private static void GetAllJugadores()
         {
-            foreach (var jugador in _repoJugador.GetAllJugadores())
+            foreach (var jugador in _repoJugador.GetAllJugador())
             {
                 Console.WriteLine(jugador.Id + "\t" + jugador.Nombre + "\t\t" + jugador.Numero + "\t\t" + jugador.Equipo.Nombre + "\t\t" + jugador.Posicion.Nombre);
             }

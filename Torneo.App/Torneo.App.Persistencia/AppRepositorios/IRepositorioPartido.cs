@@ -9,8 +9,9 @@ namespace Torneo.App.Persistencia.AppRepositorios
 {
     public interface IRepositorioPartido
     {
-        public Partido AddPartido(Partido partido, int LocalId, int VisitanteId);
-        public IEnumerable<Partido> GetAllPartidos();
+        public Partido AddPartido(Partido partido, int idEquipoLocal, int idEquipoVisitante);
+        public IEnumerable<Partido> GetAllPartido();
         public Partido GetPartido(int idPartido);
+        public Partido UpdatePartido(Partido partido, int idEquipoLocal, int idEquipoVisitante);
     }
 }

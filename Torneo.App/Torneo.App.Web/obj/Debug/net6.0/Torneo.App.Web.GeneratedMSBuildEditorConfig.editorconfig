@@ -8,145 +8,161 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Torneo.App.Web
 build_property.RootNamespace = Torneo.App.Web
-build_property.ProjectDir = C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Web\
+build_property.ProjectDir = F:\TorneoFutboll\Torneo.App\Torneo.App.Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ECF6980B\source\repos\FutbolTorneo\Torneo.App\Torneo.App.Web
+build_property.MSBuildProjectDirectory = F:\TorneoFutboll\Torneo.App\Torneo.App.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Create.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/DirectorTecnico.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/DirectorTecnico.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlyZWN0b3JUZWNuaWNvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/DTs/Create.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/DTs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRFRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/DTs/Details.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/DTs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRFRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/DTs/Edit.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/DTs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRFRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/DTs/Index.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/DTs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRFRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Equipo.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Equipo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXF1aXBvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Equipos/Create.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Equipos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXF1aXBvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Equipos/Details.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Equipos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXF1aXBvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Equipos/Edit.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Equipos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXF1aXBvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Equipos/Index.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Equipos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXF1aXBvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Error.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Index.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Jugador.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Jugador.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnVnYWRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Municipio.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Jugadores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnVnYWRvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Jugadores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnVnYWRvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Jugadores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnVnYWRvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Jugadores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnVnYWRvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Municipios/Create.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Municipios/Details.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Municipios/Edit.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Municipios/Index.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Municipios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Partido.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Partido.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlkby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Posicion.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Partidos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlkb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Partidos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlkb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Partidos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlkb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Partidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlkb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Posicion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Posiciones/Create.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Posiciones/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Posiciones/Details.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Posiciones/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Posiciones/Edit.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Posiciones/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Posiciones/Index.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Posiciones/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Posicion/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25cQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Posicion/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25cRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Posicion/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25cRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Posicion/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25cSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Privacy.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/_ViewImports.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/_ViewStart.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ECF6980B/source/repos/FutbolTorneo/Torneo.App/Torneo.App.Web/Pages/Shared/_Layout.cshtml]
+[F:/TorneoFutboll/Torneo.App/Torneo.App.Web/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-p3qxfdfgtj
